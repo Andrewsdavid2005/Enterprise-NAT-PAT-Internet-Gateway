@@ -1,4 +1,4 @@
-# 🌐 Enterprise NAT/PAT Internet Gateway Lab
+# Enterprise NAT/PAT Internet Gateway Lab
 
 A Cisco Packet Tracer enterprise networking project that demonstrates how **NAT, PAT (NAT Overload), Static NAT, routing, and Internet gateway connectivity** can be implemented in a small enterprise network.
 
@@ -6,7 +6,7 @@ This project simulates an organization where multiple internal devices use priva
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 In an enterprise network, internal devices commonly use private IPv4 addresses such as:
 
@@ -20,18 +20,18 @@ To solve this problem, **Network Address Translation (NAT)** translates private 
 
 This project implements:
 
-- 🔹 PAT / NAT Overload
-- 🔹 Static NAT
-- 🔹 Default Routing
-- 🔹 Private-to-Public Address Translation
-- 🔹 Internet Gateway Simulation
-- 🔹 NAT Verification
-- 🔹 Network Troubleshooting
-- 🔹 WAN Failure Testing
+- PAT / NAT Overload
+- Static NAT
+- Default Routing
+- Private-to-Public Address Translation
+- Internet Gateway Simulation
+- NAT Verification
+- Network Troubleshooting
+- WAN Failure Testing
 
 ---
 
-# 🎯 Objectives
+# Objectives
 
 The main objectives of this project are:
 
@@ -48,10 +48,10 @@ The main objectives of this project are:
 
 ---
 
-# 🏗️ Network Topology
+# Network Topology
 
 ```text
-                  🌐 ISP
+                  ISP
               Router2 (ISP)
              G0/0: 203.0.113.1
                     |
